@@ -1,0 +1,10 @@
+[PASS] word list loads 24 words got 24
+[PASS] placement is deterministic for a fixed seed 
+[PASS] book PDF written 23995 bytes
+[PASS] every puzzle places >= 10 of 14 words per-puzzle [14, 13, 14, 13, 13, 14]
+[PASS] every puzzle passed independent verification 
+[PASS] page count = 1 title + 6 puzzles + 1 solutions title + 6 solutions got 14
+[PASS] PDF reopens with 14 pages got 14
+[PASS] page size is 612x792 (8.5x11in) got 612x792
+
+8/8 PASS
